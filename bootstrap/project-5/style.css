@@ -1,0 +1,11 @@
+.part1 img,h1{
+   width: 100%;
+   text-align: center;position: relative;top: 250px;
+}
+.part2 h1{
+   position: relative;top: 10px;
+}
+.part2 p,img{
+   text-align: center;
+   width: 100%;
+}
