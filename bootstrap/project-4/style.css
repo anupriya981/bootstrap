@@ -1,6 +1,9 @@
 img{
     width: 100%;
 }
+.part1 img{
+    width: 100%;;
+}
 .part1 h2,p{
     text-align: center;  
 }
@@ -11,19 +14,33 @@ img{
     position: relative;top: 250px;
 
 }
-.part1 h3{
-    text-align: center;position: relative;top: 700;
+.part3 h1,p{
+    text-align: center;  
 }
+
 .part3 img,p{
-    width: 200px;
-    text-align: center;position: relative;top: 50px;    
+    width: 100%;
+    text-align: center;position: relative;top: 60px;    
 }
-.part4 h1,.part4{
-    text-align: center; background:rgb(228, 225, 225) ;
+.part3-1 img{
+    width: 170px; height:160px;
+}
+
+.part4,h1{
+  background:rgb(226, 224, 224) ;
     
 }
+.part4-3 img{
+    height: 200px;
+}
+
+
 .part5{
-    background-color: rgb(241, 118, 73);background-size: auto;
+    background-color: rgb(241, 118, 73);
+}
+
+.part5-3 img{
+    height: 240px;
 }
 .part6 h1{
     text-align: center;
