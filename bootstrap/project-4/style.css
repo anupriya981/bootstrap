@@ -26,12 +26,15 @@ img{
     width: 170px; height:160px;
 }
 
-.part4,h1{
-  background:rgb(226, 224, 224) ;text-align: center;
+.part4{
+  background:rgb(145, 143, 143) ;
     
 }
+.part4 h1{
+    text-align: center;
+}
 .part4-3 img{
-    height: 200px;
+    height: 130px;
 }
 
 
@@ -42,10 +45,22 @@ img{
 .part5-3 img{
     height: 240px;
 }
+.part5-1 img{
+    height: 150px;
+}
 .part6 h1{
     text-align: center;
 }
 
 .part7{
     background-color: rgb(1, 26, 54);
+    text-align: center;
+}
+.part7 h1{
+    text-align: center;
+}
+
+.part7-1 img{
+    width: 50px;
+   
 }

@@ -1,0 +1,42 @@
+.part h2{
+    text-align: center  ;position: relative;
+}
+.mt- h2 {
+        margin-top: 150px t;
+      }
+.part1 h1{
+    color: rgb(72, 186, 231);
+    text-align: center;
+    
+}
+.part1 h3{
+color: rgb(46, 172, 46);
+
+}
+.part2 h1{
+    text-align: center;
+   width: 585px;
+}
+.part3 h1{
+color: rgb(7, 116, 34);
+    text-align: center;
+}
+.part3 p{
+    text-align: center;
+}
+.part4 img{
+    width: 100%;
+    width: 215px; height: 150px;
+}
+.part5 text{
+    width: 100px;
+    text-align: center;
+}
+.part6 img{
+    width: 100%;
+    background-color: aqua;color: transparent;
+}
+.part5-1{
+    background-color: aqua;background-color: transparent;
+
+}
