@@ -1,0 +1,10 @@
+.part3{
+    background-color: rgb(35, 110, 81);
+ }
+ .part3 img{
+    width: 100px;
+ }
+ .part3 h1,p{
+    position: relative;top: 10px;
+    text-align: center;
+ }
