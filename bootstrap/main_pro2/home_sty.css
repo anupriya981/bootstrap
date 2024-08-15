@@ -1,0 +1,8 @@
+.page{
+    background:url(../main_pro2/static/image/img.jpg),url(../main_pro2/static/image/cnhs.webp)repeat;
+    width: 100%;
+    display: flex;
+    color: rgb(253, 253, 253);
+    text-align: center;
+
+}
